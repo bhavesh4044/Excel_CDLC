@@ -1,6 +1,5 @@
 HLOOKUP is a function in spreadsheet software, like Microsoft Excel or Google Sheets, used to search for a specific value in the first row of a table or range and return a corresponding value from a specified row below.
 
-Here's a simple definition, syntax, and example of HLOOKUP:
 
 - **Full Form:** Horizontal Lookup
 
