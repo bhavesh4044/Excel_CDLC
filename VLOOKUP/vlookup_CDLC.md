@@ -2,6 +2,8 @@
 
 * VLOOKUP is a function in spreadsheet software, like Microsoft Excel or Google Sheets, used to search for a specific value in a table or range and return a corresponding value from another column. 
 
+* The full form of VLOOKUP is "Vertical Lookup." It's called "vertical" because it searches for a value vertically in a specific column within a table or range of data and retrieves a corresponding value from a different column within the same row. VLOOKUP is a commonly used function in spreadsheet software like Microsoft Excel and Google Sheets for tasks involving data lookup and retrieval.
+
 Here's a simple syntax for VLOOKUP:
 
 ```
