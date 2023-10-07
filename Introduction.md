@@ -62,3 +62,5 @@ Excel is a powerful spreadsheet software developed by Microsoft. It allows users
 15. Excel 2019 (2018): Excel 2019 is part of the Microsoft Office 2019 suite and includes new functions and charting capabilities.
 
 16. Microsoft 365 (formerly Office 365): Microsoft now offers Excel as part of its cloud-based subscription service, Microsoft 365. This version receives regular updates and includes collaborative features and cloud integration..
+
+Thanks
